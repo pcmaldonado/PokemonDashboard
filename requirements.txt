@@ -5,3 +5,4 @@ numpy
 param
 nbconvert
 jupyter
+scikit-learn

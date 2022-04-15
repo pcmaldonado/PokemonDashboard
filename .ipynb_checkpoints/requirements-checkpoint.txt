@@ -1,7 +1,0 @@
-panel
-hvplot
-pandas
-numpy
-param
-nbconvert
-jupyter
